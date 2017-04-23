@@ -1,0 +1,40 @@
+@font-face {
+    font-family: minecraft;
+    src: url(font/MultiplayerMinecraftPL.eot);
+    src: url(font/MultiplayerMinecraftPL.ttf) format("truetype");
+    font-weight: 400;
+    font-style: normal
+}
+img {
+    height: 30px;
+    width: 30px;
+}
+.materials {
+    width: 30% !important;
+}
+footer {
+    font-size: 12px;
+    margin-top: 50px;
+    padding-top: 10px;
+    border-top: 1px solid #969696;
+    background-color: #dddddd;
+}
+.input-group {
+    margin-top: 5px;
+	position: relative;
+	height: 52px !important;
+}
+.input-group > input {
+	height: 100% !important;
+}
+#redstone-summary {
+	margin-top: 20px;
+}
+.item-image {
+	margin-right: 3px;
+}
+.list-items {
+    height: 100%;
+    margin: 0 5px 0 5px;
+    display: inline-block;
+}
