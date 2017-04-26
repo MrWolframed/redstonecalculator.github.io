@@ -19,7 +19,7 @@ function redstoneCalculator_calculate(calculateditem) {
 			itemAmount = Math.ceil(itemAmount*document.getElementById(calculateditem).value);
 		}
 		document.getElementById(calculateditem+'-'+item).innerHTML = itemAmount;
-		document.getElementById("summary-amount-"+item).innerHTML = updateSummary(item);
+		document.getElementById("summary-amount-"+item).innerHTML = redstoneCalculator_updateSummary(item);
 	}
 	
 }
