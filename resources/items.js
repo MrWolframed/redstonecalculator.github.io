@@ -104,17 +104,17 @@ var calculator = {
 			"stick": "1/16"
 		},
 		"activator_rail": {
-			"iron_ingot": "1",
+			"iron_ingot": "6/6",
 			"stick": "1/6",
 			"redstone": "1/6"
 		},
 		"detector_rail": {
-			"iron_ingot": "1",
+			"iron_ingot": "6/6",
 			"redstone": "1/6",
 			"stone": "2/6"
 		},
 		"powered_rail": {
-			"gold_ingot": "1",
+			"gold_ingot": "6/6",
 			"redstone": "1/6",
 			"stick": "1/6"
 		},
